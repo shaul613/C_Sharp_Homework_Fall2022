@@ -71,6 +71,7 @@
             this.aceOfDimonds.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.aceOfDimonds.TabIndex = 4;
             this.aceOfDimonds.TabStop = false;
+            this.aceOfDimonds.Click += new System.EventHandler(this.aceOfDimonds_Click);
             // 
             // nineOfClubs
             // 
@@ -81,6 +82,7 @@
             this.nineOfClubs.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.nineOfClubs.TabIndex = 3;
             this.nineOfClubs.TabStop = false;
+            this.nineOfClubs.Click += new System.EventHandler(this.nineOfClubs_Click);
             // 
             // eightOfHearts
             // 
@@ -91,6 +93,7 @@
             this.eightOfHearts.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.eightOfHearts.TabIndex = 2;
             this.eightOfHearts.TabStop = false;
+            this.eightOfHearts.Click += new System.EventHandler(this.eightOfHearts_Click);
             // 
             // tenOfDimonds
             // 
@@ -101,6 +104,7 @@
             this.tenOfDimonds.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.tenOfDimonds.TabIndex = 1;
             this.tenOfDimonds.TabStop = false;
+            this.tenOfDimonds.Click += new System.EventHandler(this.tenOfDimonds_Click);
             // 
             // imageName
             // 

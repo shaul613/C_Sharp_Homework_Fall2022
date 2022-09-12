@@ -31,5 +31,25 @@ namespace card_identifier
         {
             imageName.Text = "Two Of Spades";
         }
+
+        private void tenOfDimonds_Click(object sender, EventArgs e)
+        {
+            imageName.Text = "Ten Of Dimonds";
+        }
+
+        private void eightOfHearts_Click(object sender, EventArgs e)
+        {
+            imageName.Text = "Eight Of Hearts";
+        }
+
+        private void nineOfClubs_Click(object sender, EventArgs e)
+        {
+            imageName.Text = "Nine Of Clubs";
+        }
+
+        private void aceOfDimonds_Click(object sender, EventArgs e)
+        {
+            imageName.Text = "Ace Of Dimonds";
+        }
     }
 }
