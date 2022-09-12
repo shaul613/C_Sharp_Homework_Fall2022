@@ -63,9 +63,49 @@ namespace card_identifier.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _10_Diamonds {
+            get {
+                object obj = ResourceManager.GetObject("10_Diamonds", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _2_Spades {
             get {
                 object obj = ResourceManager.GetObject("2_Spades", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8_Hearts {
+            get {
+                object obj = ResourceManager.GetObject("8_Hearts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9_Clubs {
+            get {
+                object obj = ResourceManager.GetObject("9_Clubs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ace_Diamonds {
+            get {
+                object obj = ResourceManager.GetObject("Ace_Diamonds", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
