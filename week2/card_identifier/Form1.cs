@@ -29,7 +29,7 @@ namespace card_identifier
 
         private void twoOfSpades_Click(object sender, EventArgs e)
         {
-
+            imageName.Text = "Two Of Spades";
         }
     }
 }
