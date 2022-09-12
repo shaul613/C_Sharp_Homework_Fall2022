@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\bin\Debug\headsOrTails.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\bin\Debug\headsOrTails.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\bin\Debug\headsOrTails.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\headsOrTails\obj\Debug\headsOrTails.pdb
