@@ -114,6 +114,7 @@
             this.imageName.Name = "imageName";
             this.imageName.Size = new System.Drawing.Size(451, 52);
             this.imageName.TabIndex = 6;
+            this.imageName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.imageName.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
