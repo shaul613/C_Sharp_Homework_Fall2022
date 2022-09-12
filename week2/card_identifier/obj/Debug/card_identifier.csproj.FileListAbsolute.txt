@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\bin\Debug\card_identifier.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\bin\Debug\card_identifier.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\bin\Debug\card_identifier.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week2\card_identifier\obj\Debug\card_identifier.pdb
