@@ -118,7 +118,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(300, 328);
+            this.button1.Location = new System.Drawing.Point(335, 326);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 35);
             this.button1.TabIndex = 7;
@@ -140,7 +140,7 @@
             this.Controls.Add(this.tenOfDimonds);
             this.Controls.Add(this.title);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SL Image Identifier";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.twoOfSpades)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.aceOfDimonds)).EndInit();
