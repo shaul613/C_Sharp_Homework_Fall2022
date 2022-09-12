@@ -51,5 +51,10 @@ namespace card_identifier
         {
             imageName.Text = "Ace Of Dimonds";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
