@@ -12,6 +12,7 @@ namespace sentence_builder
 {
     public partial class Form1 : Form
     {
+        public String sentence;
         public Form1()
         {
             InitializeComponent();
@@ -62,9 +63,26 @@ namespace sentence_builder
 
         }
 
+        private void btn_Click(object sender, EventArgs e)
+        {
+            Button button = sender as Button;
+            if (button != null)
+            {
+                if (button.Text == "Space")
+                    output.Text += " ";
+                else
+                    output.Text += button.Text;
+            }
+        }
+
         private void button51_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btn(object sender, EventArgs e)
+        {
+
         }
     }
 }

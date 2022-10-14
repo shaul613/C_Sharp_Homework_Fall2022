@@ -79,7 +79,7 @@
             this.button49 = new System.Windows.Forms.Button();
             this.button50 = new System.Windows.Forms.Button();
             this.button51 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.output = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -90,7 +90,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "I";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.btn_Click);
             // 
             // button2
             // 
@@ -100,7 +100,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "he";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.Click += new System.EventHandler(this.btn_Click);
             // 
             // button3
             // 
@@ -158,7 +158,7 @@
             this.button8.TabIndex = 7;
             this.button8.Text = "He";
             this.button8.UseVisualStyleBackColor = true;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
+            this.button8.Click += new System.EventHandler(this.btn_Click);
             // 
             // button9
             // 
@@ -471,7 +471,7 @@
             // 
             // button43
             // 
-            this.button43.Location = new System.Drawing.Point(409, 231);
+            this.button43.Location = new System.Drawing.Point(408, 231);
             this.button43.Name = "button43";
             this.button43.Size = new System.Drawing.Size(81, 45);
             this.button43.TabIndex = 42;
@@ -551,21 +551,21 @@
             this.button51.UseVisualStyleBackColor = true;
             this.button51.Click += new System.EventHandler(this.button51_Click);
             // 
-            // label1
+            // output
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(348, 376);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(51, 20);
-            this.label1.TabIndex = 51;
-            this.label1.Text = "label1";
+            this.output.AutoSize = true;
+            this.output.Location = new System.Drawing.Point(348, 376);
+            this.output.Name = "output";
+            this.output.Size = new System.Drawing.Size(0, 20);
+            this.output.TabIndex = 51;
+            this.output.Click += new System.EventHandler(this.btn);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 493);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.output);
             this.Controls.Add(this.button51);
             this.Controls.Add(this.button50);
             this.Controls.Add(this.button49);
@@ -677,7 +677,7 @@
         private System.Windows.Forms.Button button49;
         private System.Windows.Forms.Button button50;
         private System.Windows.Forms.Button button51;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label output;
     }
 }
 
