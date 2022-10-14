@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\bin\Debug\sentence_builder.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\bin\Debug\sentence_builder.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\bin\Debug\sentence_builder.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\sentence_builder\obj\Debug\sentence_builder.pdb
