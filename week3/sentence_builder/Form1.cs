@@ -18,69 +18,33 @@ namespace sentence_builder
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
+        
 
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button25_Click(object sender, EventArgs e)
-        {
-
-        }
+        
 
         private void btn_Click(object sender, EventArgs e)
         {
             Button button = sender as Button;
             if (button != null)
             {
-                if (button.Text == "Space")
+                if (button.Text == "(Space)")
                     output.Text += " ";
                 else
                     output.Text += button.Text;
             }
         }
 
-        private void button51_Click(object sender, EventArgs e)
+        private void exit_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void btn(object sender, EventArgs e)
+        private void clear_Click(object sender, EventArgs e)
+        {
+            output.Text = "";
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
