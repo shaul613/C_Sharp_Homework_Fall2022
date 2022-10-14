@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\bin\Debug\tip_tax_total.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\bin\Debug\tip_tax_total.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\bin\Debug\tip_tax_total.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week3\tip_tax_total\obj\Debug\tip_tax_total.pdb
