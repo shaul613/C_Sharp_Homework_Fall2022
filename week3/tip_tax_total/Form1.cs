@@ -40,10 +40,10 @@ namespace tip_tax_total
         private void button1_Click(object sender, EventArgs e)
         {
             double total, tax, tip;
-            total = Int32.Parse(inputBox.Text);
+            total = double.Parse(inputBox.Text);
             tax = total * 0.07;
             tip = total * 0.15;
-            outputBox.Text = "Sales tax: " + tax + ", tip: " + tip + ", total: " + total+tip+tax + ".";
+            outputBox.Text = "Sales tax: " + tax + ", tip: " + tip + ", total: " + (total+tip+tax) + ".";
 
         }
 
