@@ -48,5 +48,10 @@ namespace sentence_builder
         {
 
         }
+
+        private void output_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

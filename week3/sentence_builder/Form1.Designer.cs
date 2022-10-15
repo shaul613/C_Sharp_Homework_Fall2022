@@ -595,11 +595,12 @@
             // output
             // 
             this.output.AutoSize = true;
-            this.output.Location = new System.Drawing.Point(348, 376);
+            this.output.Location = new System.Drawing.Point(34, 367);
             this.output.Name = "output";
             this.output.Size = new System.Drawing.Size(0, 20);
             this.output.TabIndex = 51;
-            this.output.Click += new System.EventHandler(this.btn_Click);
+            this.output.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.output.Click += new System.EventHandler(this.output_Click);
             // 
             // Form1
             // 
