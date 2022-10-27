@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\bin\Debug\distance_converter.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\bin\Debug\distance_converter.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\bin\Debug\distance_converter.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week4\distance_converter\obj\Debug\distance_converter.pdb
