@@ -58,6 +58,7 @@ namespace distance_converter
                         default: //Inches
                             break;
                     }
+                    //Showing results in output box
                     outputBox.Text = convertedDistance.ToString();
 
                 }
