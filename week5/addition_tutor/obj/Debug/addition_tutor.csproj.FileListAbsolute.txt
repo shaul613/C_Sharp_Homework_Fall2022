@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\bin\Debug\addition_tutor.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\bin\Debug\addition_tutor.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\bin\Debug\addition_tutor.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\addition_tutor\obj\Debug\addition_tutor.pdb

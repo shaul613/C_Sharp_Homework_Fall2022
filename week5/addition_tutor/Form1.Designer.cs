@@ -40,6 +40,7 @@
             // 
             this.numBox1.Location = new System.Drawing.Point(144, 102);
             this.numBox1.Name = "numBox1";
+            this.numBox1.ReadOnly = true;
             this.numBox1.Size = new System.Drawing.Size(100, 26);
             this.numBox1.TabIndex = 0;
             // 
@@ -65,6 +66,7 @@
             // 
             this.numBox2.Location = new System.Drawing.Point(274, 102);
             this.numBox2.Name = "numBox2";
+            this.numBox2.ReadOnly = true;
             this.numBox2.Size = new System.Drawing.Size(100, 26);
             this.numBox2.TabIndex = 3;
             // 
@@ -83,6 +85,7 @@
             this.submitBtn.TabIndex = 5;
             this.submitBtn.Text = "Submit";
             this.submitBtn.UseVisualStyleBackColor = true;
+            this.submitBtn.Click += new System.EventHandler(this.submitBtn_Click);
             // 
             // Form1
             // 
