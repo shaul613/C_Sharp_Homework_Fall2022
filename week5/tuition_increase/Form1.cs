@@ -19,7 +19,13 @@ namespace tuition_increase
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            tuitionList.Items.Add("hello");
+            double tuition = 2000;
+            for(int i = 0; i < 6; i++)
+            {
+                tuitionList.Items.Add("Tuition for  year " + (i+1) + " - " + tuition);
+                tuition *= 1.02;
+            }
+            
         }
     }
 }

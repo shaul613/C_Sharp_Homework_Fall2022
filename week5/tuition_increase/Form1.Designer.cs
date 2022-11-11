@@ -35,9 +35,9 @@
             // 
             this.tuitionList.FormattingEnabled = true;
             this.tuitionList.ItemHeight = 20;
-            this.tuitionList.Location = new System.Drawing.Point(127, 122);
+            this.tuitionList.Location = new System.Drawing.Point(59, 70);
             this.tuitionList.Name = "tuitionList";
-            this.tuitionList.Size = new System.Drawing.Size(120, 84);
+            this.tuitionList.Size = new System.Drawing.Size(384, 264);
             this.tuitionList.TabIndex = 0;
             // 
             // Form1
