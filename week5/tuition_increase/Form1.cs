@@ -16,5 +16,10 @@ namespace tuition_increase
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            tuitionList.Items.Add("hello");
+        }
     }
 }

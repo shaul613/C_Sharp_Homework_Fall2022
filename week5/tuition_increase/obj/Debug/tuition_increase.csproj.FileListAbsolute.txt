@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\bin\Debug\tuition_increase.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\bin\Debug\tuition_increase.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\bin\Debug\tuition_increase.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week5\tuition_increase\obj\Debug\tuition_increase.pdb
