@@ -12,13 +12,16 @@ namespace prime_numbers
 {
     public partial class form_1 : Form
     {
+        // Creating method for checking for prime
         public static Boolean IsPrime(int num)
         {
-            bool res = true;
+            bool res = true; // Default is prime
+            //For 0, 1, and 2, defult will be returned
             for(int i = 2; i < num; i++)
             {
                 if(num % i == 0)
                 {
+                    // If devisible by a number other than 1 and num, return fasle
                     return false;
                 }
                 else
@@ -37,6 +40,7 @@ namespace prime_numbers
         {
             for(int i = 1; i < 101; i++)
             {
+                // Getting results using method
                 String prime = IsPrime(i) ? "prime" : "not prime";
                 primeNumberBox.Items.Add(i + " is " + prime);
             }
