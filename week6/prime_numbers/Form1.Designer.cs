@@ -1,6 +1,6 @@
 ﻿namespace prime_numbers
 {
-    partial class Form1
+    partial class form_1
     {
         /// <summary>
         /// Required designer variable.
@@ -28,14 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.primeNumberBox = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
-            // Form1
+            // primeNumberBox
+            // 
+            this.primeNumberBox.FormattingEnabled = true;
+            this.primeNumberBox.ItemHeight = 20;
+            this.primeNumberBox.Location = new System.Drawing.Point(117, 55);
+            this.primeNumberBox.Name = "primeNumberBox";
+            this.primeNumberBox.Size = new System.Drawing.Size(533, 364);
+            this.primeNumberBox.TabIndex = 0;
+            // 
+            // form_1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.Controls.Add(this.primeNumberBox);
+            this.Name = "form_1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -43,6 +54,8 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.ListBox primeNumberBox;
     }
 }
 

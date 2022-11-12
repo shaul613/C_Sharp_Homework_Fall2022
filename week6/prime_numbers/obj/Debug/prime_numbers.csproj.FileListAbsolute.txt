@@ -3,9 +3,9 @@ C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_num
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\bin\Debug\prime_numbers.pdb
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.csproj.AssemblyReference.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.csproj.SuggestedBindingRedirects.cache
-C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.Form1.resources
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.Properties.Resources.resources
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.csproj.GenerateResource.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.csproj.CoreCompileInputs.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.exe
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\prime_numbers\obj\Debug\prime_numbers.form_1.resources
