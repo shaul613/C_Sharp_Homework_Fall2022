@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.lubeBox = new System.Windows.Forms.CheckBox();
+            this.oilBox = new System.Windows.Forms.CheckBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
-            this.checkBox7 = new System.Windows.Forms.CheckBox();
+            this.transmissionBox = new System.Windows.Forms.CheckBox();
+            this.radiatorBox = new System.Windows.Forms.CheckBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.tireBox = new System.Windows.Forms.CheckBox();
+            this.mufflerBox = new System.Windows.Forms.CheckBox();
+            this.inspectionBox = new System.Windows.Forms.CheckBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.laborBox = new System.Windows.Forms.TextBox();
+            this.partsBox = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
@@ -61,115 +61,115 @@
             this.groupBox4.SuspendLayout();
             this.groupBox5.SuspendLayout();
             this.SuspendLayout();
-            //
+            // 
             // groupBox1
-            //
-            this.groupBox1.Controls.Add(this.checkBox2);
-            this.groupBox1.Controls.Add(this.checkBox1);
+            // 
+            this.groupBox1.Controls.Add(this.lubeBox);
+            this.groupBox1.Controls.Add(this.oilBox);
             this.groupBox1.Location = new System.Drawing.Point(57, 49);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 100);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Oil And Lube";
-            //
-            // checkBox2
-            //
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(18, 62);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(134, 24);
-            this.checkBox2.TabIndex = 1;
-            this.checkBox2.Text = "Lube ($18.00)";
-            this.checkBox2.UseVisualStyleBackColor = true;
-            //
-            // checkBox1
-            //
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(18, 32);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(116, 24);
-            this.checkBox1.TabIndex = 0;
-            this.checkBox1.Text = "Oil ($26.00)";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            //
+            // 
+            // lubeBox
+            // 
+            this.lubeBox.AutoSize = true;
+            this.lubeBox.Location = new System.Drawing.Point(18, 62);
+            this.lubeBox.Name = "lubeBox";
+            this.lubeBox.Size = new System.Drawing.Size(134, 24);
+            this.lubeBox.TabIndex = 1;
+            this.lubeBox.Text = "Lube ($18.00)";
+            this.lubeBox.UseVisualStyleBackColor = true;
+            // 
+            // oilBox
+            // 
+            this.oilBox.AutoSize = true;
+            this.oilBox.Location = new System.Drawing.Point(18, 32);
+            this.oilBox.Name = "oilBox";
+            this.oilBox.Size = new System.Drawing.Size(116, 24);
+            this.oilBox.TabIndex = 0;
+            this.oilBox.Text = "Oil ($26.00)";
+            this.oilBox.UseVisualStyleBackColor = true;
+            // 
             // groupBox2
-            //
-            this.groupBox2.Controls.Add(this.checkBox6);
-            this.groupBox2.Controls.Add(this.checkBox7);
+            // 
+            this.groupBox2.Controls.Add(this.transmissionBox);
+            this.groupBox2.Controls.Add(this.radiatorBox);
             this.groupBox2.Location = new System.Drawing.Point(281, 49);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(225, 100);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Flushes";
-            //
-            // checkBox6
-            //
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(23, 62);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(191, 24);
-            this.checkBox6.TabIndex = 5;
-            this.checkBox6.Text = "Transmission ($80.00)";
-            this.checkBox6.UseVisualStyleBackColor = true;
-            //
-            // checkBox7
-            //
-            this.checkBox7.AutoSize = true;
-            this.checkBox7.Location = new System.Drawing.Point(23, 26);
-            this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(159, 24);
-            this.checkBox7.TabIndex = 6;
-            this.checkBox7.Text = "Radiator ($30.00)";
-            this.checkBox7.UseVisualStyleBackColor = true;
-            //
+            // 
+            // transmissionBox
+            // 
+            this.transmissionBox.AutoSize = true;
+            this.transmissionBox.Location = new System.Drawing.Point(23, 62);
+            this.transmissionBox.Name = "transmissionBox";
+            this.transmissionBox.Size = new System.Drawing.Size(191, 24);
+            this.transmissionBox.TabIndex = 5;
+            this.transmissionBox.Text = "Transmission ($80.00)";
+            this.transmissionBox.UseVisualStyleBackColor = true;
+            // 
+            // radiatorBox
+            // 
+            this.radiatorBox.AutoSize = true;
+            this.radiatorBox.Location = new System.Drawing.Point(23, 26);
+            this.radiatorBox.Name = "radiatorBox";
+            this.radiatorBox.Size = new System.Drawing.Size(159, 24);
+            this.radiatorBox.TabIndex = 6;
+            this.radiatorBox.Text = "Radiator ($30.00)";
+            this.radiatorBox.UseVisualStyleBackColor = true;
+            // 
             // groupBox3
-            //
-            this.groupBox3.Controls.Add(this.checkBox3);
-            this.groupBox3.Controls.Add(this.checkBox4);
-            this.groupBox3.Controls.Add(this.checkBox5);
+            // 
+            this.groupBox3.Controls.Add(this.tireBox);
+            this.groupBox3.Controls.Add(this.mufflerBox);
+            this.groupBox3.Controls.Add(this.inspectionBox);
             this.groupBox3.Location = new System.Drawing.Point(530, 49);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(248, 182);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Misc";
-            //
-            // checkBox3
-            //
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(20, 102);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(189, 24);
-            this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "Tire Rotation ($20.00)";
-            this.checkBox3.UseVisualStyleBackColor = true;
-            //
-            // checkBox4
-            //
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(20, 62);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(219, 24);
-            this.checkBox4.TabIndex = 3;
-            this.checkBox4.Text = "Replace Muffler ($100.00)";
-            this.checkBox4.UseVisualStyleBackColor = true;
-            //
-            // checkBox5
-            //
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(20, 26);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(172, 24);
-            this.checkBox5.TabIndex = 4;
-            this.checkBox5.Text = "Inspection ($15.00)";
-            this.checkBox5.UseVisualStyleBackColor = true;
-            //
+            // 
+            // tireBox
+            // 
+            this.tireBox.AutoSize = true;
+            this.tireBox.Location = new System.Drawing.Point(20, 102);
+            this.tireBox.Name = "tireBox";
+            this.tireBox.Size = new System.Drawing.Size(189, 24);
+            this.tireBox.TabIndex = 2;
+            this.tireBox.Text = "Tire Rotation ($20.00)";
+            this.tireBox.UseVisualStyleBackColor = true;
+            // 
+            // mufflerBox
+            // 
+            this.mufflerBox.AutoSize = true;
+            this.mufflerBox.Location = new System.Drawing.Point(20, 62);
+            this.mufflerBox.Name = "mufflerBox";
+            this.mufflerBox.Size = new System.Drawing.Size(219, 24);
+            this.mufflerBox.TabIndex = 3;
+            this.mufflerBox.Text = "Replace Muffler ($100.00)";
+            this.mufflerBox.UseVisualStyleBackColor = true;
+            // 
+            // inspectionBox
+            // 
+            this.inspectionBox.AutoSize = true;
+            this.inspectionBox.Location = new System.Drawing.Point(20, 26);
+            this.inspectionBox.Name = "inspectionBox";
+            this.inspectionBox.Size = new System.Drawing.Size(172, 24);
+            this.inspectionBox.TabIndex = 4;
+            this.inspectionBox.Text = "Inspection ($15.00)";
+            this.inspectionBox.UseVisualStyleBackColor = true;
+            // 
             // groupBox4
-            //
-            this.groupBox4.Controls.Add(this.textBox2);
-            this.groupBox4.Controls.Add(this.textBox1);
+            // 
+            this.groupBox4.Controls.Add(this.laborBox);
+            this.groupBox4.Controls.Add(this.partsBox);
             this.groupBox4.Controls.Add(this.label2);
             this.groupBox4.Controls.Add(this.label1);
             this.groupBox4.Location = new System.Drawing.Point(530, 247);
@@ -178,41 +178,41 @@
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Parts And Labor";
-            //
-            // textBox2
-            //
-            this.textBox2.Location = new System.Drawing.Point(123, 99);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 26);
-            this.textBox2.TabIndex = 3;
-            //
-            // textBox1
-            //
-            this.textBox1.Location = new System.Drawing.Point(95, 51);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(114, 26);
-            this.textBox1.TabIndex = 2;
-            //
+            // 
+            // laborBox
+            // 
+            this.laborBox.Location = new System.Drawing.Point(123, 99);
+            this.laborBox.Name = "laborBox";
+            this.laborBox.Size = new System.Drawing.Size(100, 26);
+            this.laborBox.TabIndex = 3;
+            // 
+            // partsBox
+            // 
+            this.partsBox.Location = new System.Drawing.Point(95, 51);
+            this.partsBox.Name = "partsBox";
+            this.partsBox.Size = new System.Drawing.Size(114, 26);
+            this.partsBox.TabIndex = 2;
+            // 
             // label2
-            //
+            // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(6, 99);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(111, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Labor (Hours):";
-            //
+            // 
             // label1
-            //
+            // 
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(16, 51);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(73, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Parts ($):";
-            //
+            // 
             // groupBox5
-            //
+            // 
             this.groupBox5.Controls.Add(this.textBox6);
             this.groupBox5.Controls.Add(this.textBox5);
             this.groupBox5.Controls.Add(this.textBox4);
@@ -227,77 +227,77 @@
             this.groupBox5.TabIndex = 4;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Summary";
-            //
+            // 
             // textBox6
-            //
+            // 
             this.textBox6.Location = new System.Drawing.Point(174, 97);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
             this.textBox6.Size = new System.Drawing.Size(241, 26);
             this.textBox6.TabIndex = 10;
-            //
+            // 
             // textBox5
-            //
+            // 
             this.textBox5.Location = new System.Drawing.Point(174, 190);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
             this.textBox5.Size = new System.Drawing.Size(241, 26);
             this.textBox5.TabIndex = 9;
-            //
+            // 
             // textBox4
-            //
+            // 
             this.textBox4.Location = new System.Drawing.Point(174, 142);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
             this.textBox4.Size = new System.Drawing.Size(241, 26);
             this.textBox4.TabIndex = 8;
-            //
+            // 
             // textBox3
-            //
+            // 
             this.textBox3.Location = new System.Drawing.Point(174, 51);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
             this.textBox3.Size = new System.Drawing.Size(241, 26);
             this.textBox3.TabIndex = 4;
-            //
+            // 
             // label6
-            //
+            // 
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(25, 97);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(50, 20);
             this.label6.TabIndex = 7;
             this.label6.Text = "Parts:";
-            //
+            // 
             // label5
-            //
+            // 
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(25, 145);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(110, 20);
             this.label5.TabIndex = 6;
             this.label5.Text = "Tax (on parts):";
-            //
+            // 
             // label4
-            //
+            // 
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(25, 190);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(48, 20);
             this.label4.TabIndex = 5;
             this.label4.Text = "Total:";
-            //
+            // 
             // label3
-            //
+            // 
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(25, 51);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(143, 20);
             this.label3.TabIndex = 4;
             this.label3.Text = "Service And Labor:";
-            //
+            // 
             // button3
-            //
+            // 
             this.button3.Location = new System.Drawing.Point(530, 449);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(143, 40);
@@ -305,27 +305,27 @@
             this.button3.Text = "Exit";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
-            //
+            // 
             // button1
-            //
+            // 
             this.button1.Location = new System.Drawing.Point(101, 449);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(143, 40);
             this.button1.TabIndex = 8;
             this.button1.Text = "Calculate";
             this.button1.UseVisualStyleBackColor = true;
-            //
+            // 
             // button2
-            //
+            // 
             this.button2.Location = new System.Drawing.Point(320, 449);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(143, 40);
             this.button2.TabIndex = 9;
             this.button2.Text = "Clear";
             this.button2.UseVisualStyleBackColor = true;
-            //
+            // 
             // Form1
-            //
+            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(807, 517);
@@ -359,16 +359,16 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox6;
-        private System.Windows.Forms.CheckBox checkBox7;
-        private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.CheckBox checkBox5;
+        private System.Windows.Forms.CheckBox lubeBox;
+        private System.Windows.Forms.CheckBox oilBox;
+        private System.Windows.Forms.CheckBox transmissionBox;
+        private System.Windows.Forms.CheckBox radiatorBox;
+        private System.Windows.Forms.CheckBox tireBox;
+        private System.Windows.Forms.CheckBox mufflerBox;
+        private System.Windows.Forms.CheckBox inspectionBox;
         private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox laborBox;
+        private System.Windows.Forms.TextBox partsBox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox6;
