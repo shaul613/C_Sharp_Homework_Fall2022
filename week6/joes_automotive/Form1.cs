@@ -56,11 +56,6 @@ namespace joes_automotive
           return partsWithTax + laborCharge;
         }
 
-        private void groupBox5_Enter(object sender, EventArgs e)
-        {
-
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             this.Close();
