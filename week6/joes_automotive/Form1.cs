@@ -69,6 +69,7 @@ namespace joes_automotive
 
         private void button2_Click(object sender, EventArgs e)
         {
+            // Getting all checkboxes with a nested foreach loop
             foreach(Control g in this.Controls.OfType<GroupBox>()){
                 foreach(var c in g.Controls.OfType<CheckBox>()){
                   c.Checked = false;
