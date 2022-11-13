@@ -54,7 +54,7 @@
             this.groupBox1.Size = new System.Drawing.Size(200, 100);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Oil And Lube";
             // 
             // checkBox2
             // 
@@ -85,7 +85,7 @@
             this.groupBox2.Size = new System.Drawing.Size(225, 100);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "groupBox2";
+            this.groupBox2.Text = "Flushes";
             // 
             // checkBox6
             // 
@@ -117,7 +117,7 @@
             this.groupBox3.Size = new System.Drawing.Size(237, 182);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "groupBox3";
+            this.groupBox3.Text = "Misc";
             // 
             // checkBox3
             // 
@@ -153,10 +153,10 @@
             // 
             this.groupBox4.Location = new System.Drawing.Point(530, 247);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(200, 100);
+            this.groupBox4.Size = new System.Drawing.Size(237, 100);
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "groupBox4";
+            this.groupBox4.Text = "Parts And Labor";
             // 
             // groupBox5
             // 
