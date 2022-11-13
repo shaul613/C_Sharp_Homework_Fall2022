@@ -56,12 +56,6 @@ namespace joes_automotive
           return partsWithTax + laborCharge;
         }
 
-//         ClearOilLube—Clears the check boxes for oil change and lube job.
-// ClearFlushes—Clears the check boxes for radiator flush and transmission flush.
-// ClearMisc—Clears the check boxes for inspection, muffler replacement, and tire rotation.
-// ClearOther—Clears the text boxes for parts and labor.
-// ClearFees—Clears the labels that display the labels in the section marked Summary.
-
         private void button3_Click(object sender, EventArgs e)
         {
             this.Close();
