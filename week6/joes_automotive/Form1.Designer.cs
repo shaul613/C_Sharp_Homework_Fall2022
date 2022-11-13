@@ -1,6 +1,6 @@
 ﻿namespace joes_automotive
 {
-    partial class Form1
+    partial class SleepyJoy
     {
         /// <summary>
         /// Required designer variable.
@@ -323,8 +323,9 @@
             this.button2.TabIndex = 9;
             this.button2.Text = "Clear";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form1
+            // SleepyJoy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -337,8 +338,8 @@
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "SleepyJoy";
+            this.Text = "Sleepy Joe\'s Auto Shop";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

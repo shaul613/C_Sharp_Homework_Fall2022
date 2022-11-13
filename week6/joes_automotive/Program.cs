@@ -16,7 +16,7 @@ namespace joes_automotive
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new SleepyJoy());
         }
     }
 }

@@ -3,9 +3,9 @@ C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_auto
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\bin\Debug\joes_automotive.pdb
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.csproj.AssemblyReference.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.csproj.SuggestedBindingRedirects.cache
-C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.Form1.resources
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.Properties.Resources.resources
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.csproj.GenerateResource.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.csproj.CoreCompileInputs.cache
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.exe
 C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week6\joes_automotive\obj\Debug\joes_automotive.SleepyJoy.resources
