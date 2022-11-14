@@ -45,9 +45,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.partsCharge = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.totalCharge = new System.Windows.Forms.TextBox();
+            this.taxCharge = new System.Windows.Forms.TextBox();
+            this.serviceCharge = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -214,9 +214,9 @@
             // groupBox5
             // 
             this.groupBox5.Controls.Add(this.partsCharge);
-            this.groupBox5.Controls.Add(this.textBox5);
-            this.groupBox5.Controls.Add(this.textBox4);
-            this.groupBox5.Controls.Add(this.textBox3);
+            this.groupBox5.Controls.Add(this.totalCharge);
+            this.groupBox5.Controls.Add(this.taxCharge);
+            this.groupBox5.Controls.Add(this.serviceCharge);
             this.groupBox5.Controls.Add(this.label6);
             this.groupBox5.Controls.Add(this.label5);
             this.groupBox5.Controls.Add(this.label4);
@@ -236,29 +236,29 @@
             this.partsCharge.Size = new System.Drawing.Size(241, 26);
             this.partsCharge.TabIndex = 10;
             // 
-            // textBox5
+            // totalCharge
             // 
-            this.textBox5.Location = new System.Drawing.Point(174, 190);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(241, 26);
-            this.textBox5.TabIndex = 9;
+            this.totalCharge.Location = new System.Drawing.Point(174, 190);
+            this.totalCharge.Name = "totalCharge";
+            this.totalCharge.ReadOnly = true;
+            this.totalCharge.Size = new System.Drawing.Size(241, 26);
+            this.totalCharge.TabIndex = 9;
             // 
-            // textBox4
+            // taxCharge
             // 
-            this.textBox4.Location = new System.Drawing.Point(174, 142);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(241, 26);
-            this.textBox4.TabIndex = 8;
+            this.taxCharge.Location = new System.Drawing.Point(174, 142);
+            this.taxCharge.Name = "taxCharge";
+            this.taxCharge.ReadOnly = true;
+            this.taxCharge.Size = new System.Drawing.Size(241, 26);
+            this.taxCharge.TabIndex = 8;
             // 
-            // textBox3
+            // serviceCharge
             // 
-            this.textBox3.Location = new System.Drawing.Point(174, 51);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(241, 26);
-            this.textBox3.TabIndex = 4;
+            this.serviceCharge.Location = new System.Drawing.Point(174, 51);
+            this.serviceCharge.Name = "serviceCharge";
+            this.serviceCharge.ReadOnly = true;
+            this.serviceCharge.Size = new System.Drawing.Size(241, 26);
+            this.serviceCharge.TabIndex = 4;
             // 
             // label6
             // 
@@ -374,9 +374,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox partsCharge;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox totalCharge;
+        private System.Windows.Forms.TextBox taxCharge;
+        private System.Windows.Forms.TextBox serviceCharge;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;

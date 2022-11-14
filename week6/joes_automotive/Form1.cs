@@ -81,8 +81,26 @@ namespace joes_automotive
             // Parts and tax charge
             double parts, partsWithTax;
             double.TryParse(partsBox.Text, out parts);
-            partsWithTax = parts * 1.06;
+            partsWithTax = parts * 0.06;
             partsCharge.Text = '$'+parts.ToString();
+            taxCharge.Text = '$'+partsWithTax.ToString();
+
+            // service
+            double oilLube = OilLubeCharges(oilBox.Checked, lubeBox.Checked);
+            double flush = FlushCharges(radiatorBox.Checked, transmissionBox.Checked);
+            double misc = MiscCharges(inspectionBox.Checked, mufflerBox.Checked, tireBox.Checked);
+            double labor;
+            double.TryParse(laborBox.Text, out labor);
+            double serviceAndLabor = oilLube + flush + misc + labor * 20.00;
+            serviceCharge.Text = '$'+serviceAndLabor.ToString();
+            double laborAndParts = OtherCharges(labor, parts);
+            double total = TotalCharges(oilLube, flush, misc, laborAndParts);
+            totalCharge.Text = '$'+total.ToString();
         }
+        // Note!
+        // I structured the program to comply with the instructions regarding the methods to use,
+        // but it became a little messy.
+        // There was no need for the method that calculates parts and labor since they are never calculated
+        // together in the summary section in the program.
     }
 }
