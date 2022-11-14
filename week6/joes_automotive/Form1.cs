@@ -63,12 +63,26 @@ namespace joes_automotive
 
         private void button2_Click(object sender, EventArgs e)
         {
-            // Getting all checkboxes with a nested foreach loop
+            // Getting all checkboxes and textboxes with a nested foreach loop
             foreach(Control g in this.Controls.OfType<GroupBox>()){
+                // Checkboxes
                 foreach(var c in g.Controls.OfType<CheckBox>()){
-                  c.Checked = false;
+                    c.Checked = false;
+                }
+                // Textboxes
+                foreach(var t in g.Controls.OfType<TextBox>()){
+                    t.Text = "";
                 }
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Parts and tax charge
+            double parts, partsWithTax;
+            double.TryParse(partsBox.Text, out parts);
+            partsWithTax = parts * 1.06;
+            partsCharge.Text = '$'+parts.ToString();
         }
     }
 }

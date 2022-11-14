@@ -44,7 +44,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.partsCharge = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -213,7 +213,7 @@
             // 
             // groupBox5
             // 
-            this.groupBox5.Controls.Add(this.textBox6);
+            this.groupBox5.Controls.Add(this.partsCharge);
             this.groupBox5.Controls.Add(this.textBox5);
             this.groupBox5.Controls.Add(this.textBox4);
             this.groupBox5.Controls.Add(this.textBox3);
@@ -228,13 +228,13 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Summary";
             // 
-            // textBox6
+            // partsCharge
             // 
-            this.textBox6.Location = new System.Drawing.Point(174, 97);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(241, 26);
-            this.textBox6.TabIndex = 10;
+            this.partsCharge.Location = new System.Drawing.Point(174, 97);
+            this.partsCharge.Name = "partsCharge";
+            this.partsCharge.ReadOnly = true;
+            this.partsCharge.Size = new System.Drawing.Size(241, 26);
+            this.partsCharge.TabIndex = 10;
             // 
             // textBox5
             // 
@@ -314,6 +314,7 @@
             this.button1.TabIndex = 8;
             this.button1.Text = "Calculate";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -372,7 +373,7 @@
         private System.Windows.Forms.TextBox partsBox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox partsCharge;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox3;
