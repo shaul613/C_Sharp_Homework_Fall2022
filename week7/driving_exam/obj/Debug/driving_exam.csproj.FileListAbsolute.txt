@@ -1,0 +1,11 @@
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\bin\Debug\driving_exam.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\bin\Debug\driving_exam.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\bin\Debug\driving_exam.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week7\driving_exam\obj\Debug\driving_exam.pdb
