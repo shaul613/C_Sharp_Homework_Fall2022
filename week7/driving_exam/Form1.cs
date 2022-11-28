@@ -16,7 +16,9 @@ namespace driving_exam
         public Form1()
         {
             InitializeComponent();
+            // Getting data
             Dictionary<string, string> data = getResults(correctAnswers, submittedAnswers);
+            // Applying data from dictionary to the form
             result.Text += data["result"];
             ans_pass.Text += data["correct"];
             ans_fail.Text += data["incorrect"];
@@ -30,9 +32,9 @@ namespace driving_exam
         public static Dictionary<string, string> getResults(string[] answers, string[] submission)
         {
             Dictionary<string, string> result = new Dictionary<string, string>();
-            int correct = 0;
-            int incorrect = 0;
-            string incorrectList = "";
+            int correct = 0; // Total correct
+            int incorrect = 0; // Total incorrect
+            string incorrectList = ""; // List of incorrect
             for(int i = 0; i < 20; i++)
             {
                 if (answers[i] == submission[i])
@@ -45,6 +47,7 @@ namespace driving_exam
                     incorrectList += i.ToString() + " ";
                 }
             }
+            // Adding data to dictionary
             string passFail = correct >= 15 ? "Pass" : "Fail";
             result.Add("result", passFail);
             result.Add("correct", correct.ToString());
