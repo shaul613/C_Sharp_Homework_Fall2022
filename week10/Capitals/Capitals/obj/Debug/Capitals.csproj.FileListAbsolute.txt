@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Capitals\Capitals\bin\Debug\Capitals.exe.config
+C:\Users\USER\source\repos\Capitals\Capitals\bin\Debug\Capitals.exe
+C:\Users\USER\source\repos\Capitals\Capitals\bin\Debug\Capitals.pdb
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.Form1.resources
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.Properties.Resources.resources
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.exe
+C:\Users\USER\source\repos\Capitals\Capitals\obj\Debug\Capitals.pdb
