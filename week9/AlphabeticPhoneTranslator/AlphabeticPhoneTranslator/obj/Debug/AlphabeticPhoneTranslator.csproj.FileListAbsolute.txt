@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\bin\Debug\AlphabeticPhoneTranslator.exe.config
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\bin\Debug\AlphabeticPhoneTranslator.exe
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\bin\Debug\AlphabeticPhoneTranslator.pdb
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.Form1.resources
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.Properties.Resources.resources
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.exe
+C:\Users\USER\source\repos\AlphabeticPhoneTranslator\AlphabeticPhoneTranslator\obj\Debug\AlphabeticPhoneTranslator.pdb
