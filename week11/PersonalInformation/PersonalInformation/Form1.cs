@@ -24,22 +24,22 @@ namespace PersonalInformation
         private void Form1_Load(object sender, EventArgs e)
         {
             //MY PERSONAL INFORMATION
-            personalData.name = "HOMER SIMPSON";
-            personalData.address = "742 EVERGREEN TERRACE";
-            personalData.age = "40";
-            personalData.phoneNumber = "123-456-7890";
+            personalData.name = "Shaul Lifschitz";
+            personalData.address = "447 Sequelize St, Soql NY, 12345";
+            personalData.age = "23";
+            personalData.phoneNumber = "201-688-6039";
 
             //MY FAMILY MEMBER'S INFORMATION
-            familyData.name = "BART SIMPSON";
-            familyData.address = "742 EVERGREEN TERRACE";
-            familyData.age = "10";
-            familyData.phoneNumber = "123-456-7890";
+            familyData.name = "My Best Uncle";
+            familyData.address = "123 Javascript St, Knex NJ, 00001";
+            familyData.age = "57";
+            familyData.phoneNumber = "201-555-5555";
 
             //MY FRIEND'S INFORMATION
-            friendData.name = "MOE SIZSLACK";
-            friendData.address = "MOE'S BAR";
-            friendData.age = "45";
-            friendData.phoneNumber = "333-BAR-MOES";
+            friendData.name = "My Dear Friend";
+            friendData.address = "123 Hello World St, Salesforce FL, 00027";
+            friendData.age = "23";
+            friendData.phoneNumber = "201-999-9999";
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -9,3 +9,14 @@ C:\Users\USER\source\repos\PersonalInformation\PersonalInformation\obj\Debug\Per
 C:\Users\USER\source\repos\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
 C:\Users\USER\source\repos\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week11\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
