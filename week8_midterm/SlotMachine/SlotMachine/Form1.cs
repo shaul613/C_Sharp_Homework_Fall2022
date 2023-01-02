@@ -23,9 +23,9 @@ namespace SlotMachine
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            imagenUno();
-            imagenDos();
-            imagenTres();
+            imageOne();
+            imageTwo();
+            imageThree();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -37,9 +37,9 @@ namespace SlotMachine
         {
             if(!string.IsNullOrEmpty(txtAmount.Text))
             {
-                imagenUno();
-                imagenDos();
-                imagenTres();
+                imageOne();
+                imageTwo();
+                imageThree();
                 checkSpin();
             }
             else
@@ -49,10 +49,8 @@ namespace SlotMachine
             }
         }
 
-        private void imagenUno()
+        private void imageOne()
         {
-            //RANDOM CHOOSE THE IMAGES
-            //string ruta1 = @"C:\\Users\\USER\\source\\repos\\SlotMachine\\SlotMachine\\Images\\filename.png";
             
             Random random1 = new Random();
             int number1 = random1.Next(1, 24);
@@ -61,7 +59,6 @@ namespace SlotMachine
                 number1 = number1 - 12;
             }
             option1 = number1;
-            //ruta1 = ruta1.Replace("filename", number1.ToString().Trim());
 
             switch (number1)
             {
@@ -102,17 +99,13 @@ namespace SlotMachine
                     pictureBox1.Image = global::SlotMachine.Properties.Resources._12;
                     break;
                 default:
-                    // code block
                     break;
             }
 
-            //pictureBox1.Image = new Bitmap(ruta1);
         }
 
-        private void imagenDos()
+        private void imageTwo()
         {
-            //RANDOM CHOOSE THE IMAGES
-            //string ruta2 = @"C:\\Users\\USER\\source\\repos\\SlotMachine\\SlotMachine\\Images\\filename.png";
 
             Random random2 = new Random();
             int number2 = random2.Next(1, 48);
@@ -121,8 +114,6 @@ namespace SlotMachine
                 number2 = number2 - 12;
             }
             option2 = number2;
-            //ruta2 = ruta2.Replace("filename", number2.ToString().Trim());
-            //pictureBox2.Image = new Bitmap(ruta2);
 
             switch (number2)
             {
@@ -163,15 +154,12 @@ namespace SlotMachine
                     pictureBox2.Image = global::SlotMachine.Properties.Resources._12;
                     break;
                 default:
-                    // code block
                     break;
             }
         }
 
-        private void imagenTres()
+        private void imageThree()
         {
-            //RANDOM CHOOSE THE IMAGES
-            //string ruta3 = @"C:\\Users\\USER\\source\\repos\\SlotMachine\\SlotMachine\\Images\\filename.png";
 
             Random random3 = new Random();
             int number3 = random3.Next(1, 60);
@@ -180,8 +168,6 @@ namespace SlotMachine
                 number3 = number3 - 12;
             }
             option3 = number3;
-            //ruta3 = ruta3.Replace("filename", number3.ToString().Trim());
-            //pictureBox3.Image = new Bitmap(ruta3);
 
             switch (number3)
             {
@@ -222,7 +208,6 @@ namespace SlotMachine
                     pictureBox3.Image = global::SlotMachine.Properties.Resources._12;
                     break;
                 default:
-                    // code block
                     break;
             }
         }
@@ -232,7 +217,7 @@ namespace SlotMachine
             if((option1 == option2) && (option1 == option3))
             {
                 decimal wonAmount = Convert.ToDecimal(txtAmount.Text) * 3;
-                MessageBox.Show("You have won US $ " + wonAmount.ToString().Trim());
+                MessageBox.Show("You have won $ " + wonAmount.ToString().Trim());
             }
             else
             {
@@ -243,11 +228,11 @@ namespace SlotMachine
                     )
                 {
                     decimal wonAmount = Convert.ToDecimal(txtAmount.Text) * 2;
-                    MessageBox.Show("You have won US $ " + wonAmount.ToString().Trim());
+                    MessageBox.Show("You have won $ " + wonAmount.ToString().Trim());
                 }
                 else
                 {
-                    MessageBox.Show("You have won US $0,00");
+                    MessageBox.Show("You have won $0,00");
 
                 }
 

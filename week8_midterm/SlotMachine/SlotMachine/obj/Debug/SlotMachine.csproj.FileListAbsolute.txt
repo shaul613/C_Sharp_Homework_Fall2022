@@ -9,3 +9,14 @@ C:\Users\USER\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.
 C:\Users\USER\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
 C:\Users\USER\source\repos\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.AssemblyReference.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\shaul\Documents\college_courses\CPT260_C_Sharp\Homework\week8_midterm\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
